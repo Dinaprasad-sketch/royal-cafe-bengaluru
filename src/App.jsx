@@ -67,7 +67,7 @@ menu: (
       {/* Veg Starters */}
       <div className="relative rounded-xl shadow-lg p-6 bg-yellow-50 overflow-hidden
         bg-[url('/images/IMG-20250522-WA0002.jpg')] bg-cover bg-center">
-        <div className="absolute inset-0 bg-yellow-50 bg-opacity-40"></div>
+        <div className="absolute inset-0 bg-yellow-50 bg-opacity-60"></div>
         <div className="relative">
           <h3 className="text-xl font-bold text-yellow-700 mb-4">Veg Starters</h3>
           <ul className="space-y-2 text-left">
@@ -88,7 +88,7 @@ menu: (
       {/* Non Veg Starters */}
       <div className="relative rounded-xl shadow-lg p-6 bg-red-50 overflow-hidden
         bg-[url('/images/IMG-20250522-WA0002.jpg')] bg-cover bg-center">
-        <div className="absolute inset-0 bg-red-50 bg-opacity-40"></div>
+        <div className="absolute inset-0 bg-red-50 bg-opacity-60"></div>
         <div className="relative">
           <h3 className="text-xl font-bold text-red-700 mb-4">Non Veg Starters</h3>
           <ul className="space-y-2 text-left">
@@ -106,7 +106,7 @@ menu: (
       {/* Chinese */}
       <div className="relative rounded-xl shadow-lg p-6 bg-green-50 overflow-hidden
         bg-[url('/images/IMG-20250522-WA0002.jpg')] bg-cover bg-center">
-        <div className="absolute inset-0 bg-green-50 bg-opacity-40"></div>
+        <div className="absolute inset-0 bg-green-50 bg-opacity-60"></div>
         <div className="relative">
           <h3 className="text-xl font-bold text-green-700 mb-4">Chinese</h3>
           <ul className="space-y-2 text-left">
